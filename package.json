@@ -1,0 +1,8 @@
+{
+  "name": "ohjs-grecaptcha-v2",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ohjs-script-loader": "justin-oh/ohjs-script-loader"
+  }
+}
