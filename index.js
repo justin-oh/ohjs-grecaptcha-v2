@@ -1,4 +1,4 @@
-import scriptLoader from 'ohjs-script-loader';
+import scriptLoader from '../ohjs-script-loader/index.js';
 
 const callback = 'ohjsOnRecaptchaApiReady';
 
